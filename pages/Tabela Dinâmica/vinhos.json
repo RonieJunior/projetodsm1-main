@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "tipo": "Branco leve",
+        "uva": "Sauvgnon Blanc, Pinot Grigio"
+    },
+    {
+        "id": "2",
+        "tipo": "Branco aromático",
+        "uva": "Sauvgnon Blanc, Pinot Grigio"
+    },
+    {
+        "id": "3",
+        "tipo": "Branco encorparado",
+        "uva": "Chadonary, Semillon"
+    },
+    {
+        "id": "4",
+        "tipo": "Rosé",
+        "uva": "Pinot Noir, Merlot"
+    },
+    {
+        "id": "5",
+        "tipo": "Rosé seco",
+        "uva": "Merlot, Malbec"
+    },
+    {
+        "id": "6",
+        "tipo": "Tinto leve",
+        "uva": "Pinot Noir, Grenache"
+    },
+    {
+        "id": "7",
+        "tipo": "Tinto médio",
+        "uva": "Barbera, Merlot"
+    },
+    {
+        "id": "8",
+        "tipo": "Tinto encorporado",
+        "uva": "Cabernet Sauvignon, Malbec"
+    }
+]

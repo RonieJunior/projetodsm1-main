@@ -1,0 +1,19 @@
+ body {
+      font-family: Arial, sans-serif;
+      background: rgba(0, 0, 255, 0.258);;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 30px;
+    }
+    .grafico {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 15px;
+    }
