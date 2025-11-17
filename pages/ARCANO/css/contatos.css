@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Titillium+Web&display=swap');
+
+body {
+    margin: 0;
+    background-color: rgba(65, 15, 111, 0.407);
+    font-family: 'Poppins', sans-serif;
+}
+div#topo {
+    position: absolute;
+    top: 10px;
+    display: flex;
+}
+
+img#logo{
+    padding: 20px;
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+}
+  
+div#menu ul {
+    position: relative;
+    top: 30px;
+    left: 650px;
+    right: 90px;
+    list-style: none;
+    display: flex;
+    padding: 5px;
+    gap: 20px;
+    background-color: rgba(157, 44, 44, 0.09);
+    border-radius: 10px;
+}
+
+#menu li {
+    font-size: 20px;
+}
+
+#menu a {
+    color: black;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+    color:rgb(124, 2, 49);
+}
+
+div#conteiner {
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 200px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    background-color: #ffffff;
+    width: 500px;
+    height: 30px;
+    padding: 8px 16px 8px 8px;
+    border-radius: 24px;
+    gap: 8px;
+}
+.input-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    min-height: 32px;
+}
+.input-field {
+    width: 100%;
+    border: none;
+}
+
+.contatos {
+    position: absolute;
+    top: 30vh;
+    left:50px;
+    width: 100vw;
+}
+h1{
+    padding-top: 20px;
+}
+
+.contatos a {
+    color: crimson;
+    text-decoration: none;   
+}
+.contatos a:hover{
+    color: green;
+}
+
+#btn {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 47px;
+    outline: none;
+    opacity: 1%;
+}
